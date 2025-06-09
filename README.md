@@ -26,7 +26,7 @@ The complete workflow includes:
 - Preprocessed using TensorFlow's `ImageDataGenerator`
 - Image size standardized to **299x299** pixels
 - Train: 81.7%, Validation: 9.1%, Test: 9.2%
-![Brain Tumor Dataset](https://drive.google.com/uc?export=view&id=1P6t6IkzYGnLiCHAeTGFtA8daS-HZX4ba)
+![Brain Tumor Detection](https://drive.google.com/uc?export=view&id=14GwthR-hb_63h6xP3GG1TmOcKDYSlpKF)
 
 
 ---
